@@ -1,6 +1,6 @@
 {
   "name": "ringcentral-personal-bot-template-js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Template",
   "main": "dist/server/index.js",
   "scripts": {
@@ -32,8 +32,8 @@
   },
   "dependencies": {
     "ringcentral-personal-bot-skill-pack-simple": "1.1.1",
-    "ringcentral-personal-chatbot": "^0.3.8",
-    "ringcentral-personal-chatbot-skill-faq": "^0.1.12"
+    "ringcentral-personal-chatbot": "^0.3.9",
+    "ringcentral-personal-chatbot-skill-faq": "^0.2.0"
   },
   "standard": {
     "parser": "babel-eslint",
