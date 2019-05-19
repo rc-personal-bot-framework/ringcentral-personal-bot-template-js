@@ -1,9 +1,10 @@
-import * as skillFake from 'ringcentral-personal-chatbot-skill-faq'
+import * as skillFaq from 'ringcentral-personal-chatbot-skill-faq'
+import skillPack from 'ringcentral-personal-bot-skill-pack-simple'
 
 export const name = 'Demo Bot'
 export const description = 'Demo bot'
 export const homepage = 'https://github.com/rc-personal-bot-framework/ringcentral-personal-bot-template-js#readme'
-export const skills = [skillFake]
+export const skills = [skillFaq, ...skillPack]
 export const onPostAdd = async ({
   text, // original text
   textFiltered, // text without metion user
@@ -25,4 +26,3 @@ export const onPostAdd = async ({
     })
   }
 }
-

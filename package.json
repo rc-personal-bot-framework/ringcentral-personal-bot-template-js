@@ -31,6 +31,7 @@
     "yarn-upgrade-all": "^0.5.0"
   },
   "dependencies": {
+    "ringcentral-personal-bot-skill-pack-simple": "1.1.0",
     "ringcentral-personal-chatbot": "^0.3.8",
     "ringcentral-personal-chatbot-skill-faq": "^0.1.12"
   },
