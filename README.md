@@ -2,9 +2,6 @@
 
 Template for [RingCentral personal chatbot js](https://github.com/rc-personal-bot-framework/ringcentral-personal-chatbot-js).
 
-![ ](screenshots/setting.png)
-![ ](screenshots/s1.png)
-
 ## Quick start
 
 Let's start a simple chatbot server and login to it with you sandbox glip account, and you account will auto respond to keywords set by you.
@@ -42,12 +39,9 @@ cp .env.sample .env
 # run sample hello bot
 npm start
 
-# start client dev server
-npm run c
-
 ```
 
-Then visit [https://xxxx.ap.ngrok.io](https://xxxx.ap.ngrok.io) to login, after auth, you can set `Bot skill: FAQ`'s keywords and answers from its setting page. Then try the keywords with another account.
+Then visit [https://xxxx.ap.ngrok.io](https://xxxx.ap.ngrok.io) to login, after auth, you can set `Bot skill: FAQ`'s keywords and answers from its skill setting page. Then try the keywords with another account.
 
 ## Build
 
