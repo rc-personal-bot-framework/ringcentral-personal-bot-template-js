@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "ringcentral-personal-bot-skill-pack-simple": "1.1.1",
-    "ringcentral-personal-chatbot": "^0.3.17",
+    "ringcentral-personal-chatbot": "^0.3.18",
     "ringcentral-personal-chatbot-skill-faq": "^0.2.1"
   },
   "standard": {
