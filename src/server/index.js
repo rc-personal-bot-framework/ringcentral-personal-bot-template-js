@@ -5,6 +5,8 @@ export const name = 'Demo Bot'
 export const description = 'Personal Chatbot with skills'
 export const homepage = 'https://github.com/rc-personal-bot-framework/ringcentral-personal-bot-template-js#readme'
 export const skills = [skillFaq, ...skillPack]
+
+/*
 export const onPostAdd = async ({
   text, // original text
   textFiltered, // text without metion user
@@ -26,3 +28,4 @@ export const onPostAdd = async ({
     })
   }
 }
+*/
