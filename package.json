@@ -32,8 +32,8 @@
   },
   "dependencies": {
     "ringcentral-personal-bot-skill-pack-simple": "1.1.2",
-    "ringcentral-personal-chatbot": "^0.4.1",
-    "ringcentral-personal-chatbot-skill-faq": "^0.2.4"
+    "ringcentral-personal-chatbot": "^0.4.2",
+    "ringcentral-personal-chatbot-skill-faq": "^0.3.1"
   },
   "standard": {
     "parser": "babel-eslint",
