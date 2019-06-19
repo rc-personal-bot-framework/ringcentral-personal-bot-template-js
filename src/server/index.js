@@ -5,7 +5,7 @@ import * as skillTime from 'glip-personal-bot-skill-time'
 export const name = 'Demo Bot'
 export const description = 'Personal Chatbot with skills'
 export const homepage = 'https://github.com/rc-personal-bot-framework/ringcentral-personal-bot-template-js#readme'
-export const skills = [skillFaq, ...skillPack, skillTime]
+export const skills = [skillTime, skillFaq, ...skillPack]
 
 /*
 export const onPostAdd = async ({
