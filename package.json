@@ -31,7 +31,7 @@
     "yarn-upgrade-all": "^0.5.0"
   },
   "dependencies": {
-    "glip-personal-bot-skill-time": "^0.3.2",
+    "glip-personal-bot-skill-time": "^0.3.3",
     "ringcentral-personal-bot-skill-pack-simple": "1.1.2",
     "ringcentral-personal-chatbot": "^0.5.0",
     "ringcentral-personal-chatbot-skill-faq": "^0.3.1"
